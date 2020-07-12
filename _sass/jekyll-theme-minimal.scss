@@ -24,6 +24,7 @@ h1, h2, h3 {
 
 h1 {
   font-size:28px;
+  text-align: center;
 }
 
 h2 {
@@ -109,6 +110,10 @@ header {
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
+}
+
+.description {
+  text-align: center;
 }
 
 ul.downloads {
