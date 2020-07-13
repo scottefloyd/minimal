@@ -4,6 +4,8 @@ layout: default
 
 # Welcome • Willkommen • Bienvenidos • 어서 오십시오
 
+[Resume/CV](../online-cv)
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
