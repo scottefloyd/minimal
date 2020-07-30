@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Resume/CV](../online-cv)
+[UX Portfolio](../ux-portolio) [Resume/CV](../online-cv) [Web Design](../web-portfolio)
 
 Thank you for visiting my persoal page.
 
