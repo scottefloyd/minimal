@@ -12,7 +12,8 @@ Break
 
 {:.nav-menu}
 {% for nav in site.data.nav %}
-{% if nav.url == page.url %} class="active"{% endif %}[nav.text](nav.url)
+{% if nav.url == page.url %} {:.active}{% endif %}
+[nav.text](nav.url)
 {% endfor %}
 
 Break
