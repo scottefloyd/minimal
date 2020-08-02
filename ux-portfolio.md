@@ -8,7 +8,7 @@ permalink: /ux-portfolio/
 <li{% if nav.url == page.url %} class="active"{% endif %}><a href="{{ nav.url }}">{{ nav.text }}</a></li>
 {% endfor %}
 
-<li>{% page.url %}</li>
+<li>{{ page.url }}</li>
 
 {:.nav-menu}
 [UX PORTFOLIO](../ux-portfolio)   [RESUME/CV](../online-cv)   [WEB DESIGN](../web-portfolio)
