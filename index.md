@@ -5,7 +5,7 @@ layout: default
 {:.nav-menu}
 [UX PORTFOLIO](../ux-portolio)   [RESUME/CV](../online-cv)   [WEB DESIGN](../web-portfolio)
 
-Thank you for visiting my persoal page.
+Thank you for visiting my personal page.
 
 Quite often when I use a new app or technology I find that the concept is great, the underlying technology performs well, but the user experience (UX) is sub-par. 
 
