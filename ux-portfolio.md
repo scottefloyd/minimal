@@ -11,10 +11,12 @@ permalink: /ux-portfolio/
 Break
 
 {:.nav-menu}
+<ul>
 {% for nav in site.data.nav %}
 {% if nav.url == page.url %} {:.active}{% endif %}
-[nav.text](nav.url)
+<li>[{{nav.text}}]({{nav.url}})</li>
 {% endfor %}
+</ul>
 
 Break
 
