@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: ux-portfolio
 ---
 
 ## Welcome to another page
