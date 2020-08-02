@@ -5,4 +5,5 @@ permalink: /ux-portfolio/
 
 
 
-testing 1,2,3 bitch
+{:.nav-menu}
+[UX PORTFOLIO](../ux-portfolio)   [RESUME/CV](../online-cv)   [WEB DESIGN](../web-portfolio)
