@@ -1,5 +1,5 @@
 ---
-layout: ux-portfolio
+layout: portfolio
 permalink: /ux-portfolio/
 ---
 
