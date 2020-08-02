@@ -4,4 +4,4 @@ permalink: /web-portfolio/
 ---
 
 {:.nav-menu}
-[UX PORTFOLIO](../ux-portfolio)   [RESUME/CV](../online-cv)   [WEB DESIGN](../web-portfolio)
+[{:.ux-nav}UX PORTFOLIO](../ux-portfolio)   [RESUME/CV](../online-cv)   [WEB DESIGN](../web-portfolio)
