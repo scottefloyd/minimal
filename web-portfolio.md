@@ -1,5 +1,5 @@
 ---
-layout: portfolio
+layout: web-portfolio
 permalink: /web-portfolio/
 ---
 
