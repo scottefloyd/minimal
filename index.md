@@ -3,7 +3,7 @@ layout: default
 ---
 
 {:.nav-menu}
-[UX Portfolio](../ux-portolio)   [Resume/CV](../online-cv)   [Web Design](../web-portfolio)
+[UX PORTFOLIO](../ux-portolio)   [RESUME/CV](../online-cv)   [WEB DESIGN](../web-portfolio)
 
 Thank you for visiting my persoal page.
 
