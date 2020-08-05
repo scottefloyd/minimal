@@ -114,14 +114,14 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-.nav-menu {
+ul.nav-menu {
   font-family: 'Oswald', sans-serif;
   font-variant: small-caps;
   font-size: 1.4em;
   a {
     padding-right: 15px;
   }
-  ul li {
+  li {
     list-style: none;
     display: inline-block;
     padding-right: 15px;
