@@ -8,3 +8,12 @@ permalink: /ux-portfolio/
 <li{% if nav.url == page.url %} class="active"{% endif %}><a href="{{ nav.url }}">{{ nav.text }}</a></li>
 {% endfor %}</ul>
 
+
+## Table of Contents
+
+### [usability]
+
+### [apps]
+
+### [ux research]
+
