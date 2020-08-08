@@ -9,7 +9,7 @@ permalink: /ux-portfolio/
 {% endfor %}</ul>
 
 
-## usability
+## USABILITY
 
 ### Photobook Usability Report
 
@@ -21,7 +21,7 @@ After entering the photobook market, a customer survey was sent out to gain insi
 
 [View the complete report (PDF)]({{ site.baseurl }}/assets/usability-report-summary.pdf)
 
-## apps
+## APPS
 
 ### Boogie Battle Mobile App
 
@@ -31,7 +31,7 @@ The Boogie Battle app was built as the final project for the Grand Circus Front-
 
 [View Details]({{ site.baseurl }}/assets/usability-report-summary.pdf)
 
-## user research
+## USER RESEARCH
 
 ### Competition App User Survey
 
