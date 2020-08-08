@@ -14,8 +14,9 @@ permalink: /ux-portfolio/
 ### photobook usability report
 
 ![man and woman wedding photos in book]({{ site.baseurl }}/assets/img/photobook.jpg "wedding photobook")
+Copyright [Q. Shamsuddin](https://www.flickr.com/photos/shadesofqaeds/), licensed under [Creative Commons 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/legalcode)
 
-After entering the photobook market, we sent out a customer survey to gain insight customers' experience with the product. I coded the responses, paired responses with insights from the customer support team, and provided analysis on the product experience. My recommendations were put directly in the product development pipeline, which reduced the need for customer support in a number of areas. 
+After entering the photobook market, a customer survey was sent out to gain insight into customers' experience with the product. I coded the responses, paired responses with insights from the customer support team, and provided analysis on the product experience. My recommendations were put directly into the product development pipeline, which reduced the need for customer support in numberous areas. 
 
 [View the complete report (PDF)]({{ site.baseurl }}/assets/usability-report-summary.pdf)
 
