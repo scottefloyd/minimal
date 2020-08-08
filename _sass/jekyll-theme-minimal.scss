@@ -32,7 +32,12 @@ h1 {
 h2 {
   color:#393939;
   font-family: 'Oswald', sans-serif;
+  font-size: 2.5em;
   font-variant: small-caps;
+}
+
+h3 {
+  font-size: 2em;
 }
 
 h3, h4, h5, h6 {
@@ -49,6 +54,11 @@ a {
 a:hover, a:focus {
   color:#069;
   font-weight: bold;
+}
+
+.attribution {
+  font-size: 10px;
+  text-align: right;
 }
 
 a small {
