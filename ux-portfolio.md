@@ -19,7 +19,7 @@ After the company I was working for entered the photobook market a customer surv
 ![man and woman wedding photos in book]({{ site.baseurl }}/assets/img/photobook.jpg "wedding photobook")
 <span class="attribution">Copyright <a href="https://www.flickr.com/photos/shadesofqaeds/">Q. Shamsuddin</a>, licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/legalcode">Creative Commons 2.0</a></span>
 
-[View the complete report (PDF)]({{ site.baseurl }}/assets/usability-report-summary.pdf)
+[View the complete report (PDF)]({{ site.baseurl }}/assets/usability-report-summary.pdf){:target="_blank"}
 
 ## APPS
 
@@ -27,7 +27,7 @@ After the company I was working for entered the photobook market a customer surv
 
 The Boogie Battle app was built as the final project for the Grand Circus Front-End Bootcamp I attending in Spring of 2019. We designed, built and launched the app over a two-week period. 
 
-![sign up page for dance app]({{ site.baseurl }}/assets/img/bb-mockup-sm.png "dance app")
+![sign up page for dance app]({{ site.baseurl }}/assets/img/bb-two-imgs.png "dance app")
 
 [View Details]({{ site.baseurl }}/assets/usability-report-summary.pdf)
 
