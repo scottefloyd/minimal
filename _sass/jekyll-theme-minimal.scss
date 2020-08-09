@@ -48,8 +48,10 @@ h3, h4, h5, h6 {
 }
 
 hr {
+  border: 0;
   color: #2d7788;
   height: 5px;
+  margin:0 0 20px;
 }
 
 a {
@@ -233,13 +235,6 @@ section {
 
 small {
   font-size:11px;
-}
-
-hr {
-  border:0;
-  background:#e5e5e5;
-  height:1px;
-  margin:0 0 20px;
 }
 
 footer {
