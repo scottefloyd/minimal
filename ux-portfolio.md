@@ -13,7 +13,7 @@ permalink: /ux-portfolio/
 
 ### Photobook Usability Report
 
-After entering the photobook market, a customer survey was sent out to gain insight into customers' experience with the product. I coded the responses, paired responses with insights from the customer support team, and provided analysis on the product experience. My recommendations were put directly into the product development pipeline, which reduced the need for customer support in numberous areas. 
+After the company I was working for entered the photobook market a customer survey was sent out to gain insight into customers' experience with the product. I coded the responses, paired responses with insights from the customer support team, and provided analysis on the product experience. My recommendations were put directly into the product development pipeline, which reduced the need for customer support in numberous areas. 
 
 {:.image}
 ![man and woman wedding photos in book]({{ site.baseurl }}/assets/img/photobook.jpg "wedding photobook")
@@ -27,7 +27,7 @@ After entering the photobook market, a customer survey was sent out to gain insi
 
 The Boogie Battle app was built as the final project for the Grand Circus Front-End Bootcamp I attending in Spring of 2019. We designed, built and launched the app over a two-week period. 
 
-![sign up page for dance app]({{ site.baseurl }}/assets/img/boogie1.png "dance app")
+![sign up page for dance app]({{ site.baseurl }}/assets/img/bb-mockup-sm.png "dance app")
 
 [View Details]({{ site.baseurl }}/assets/usability-report-summary.pdf)
 
