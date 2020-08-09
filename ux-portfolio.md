@@ -19,6 +19,7 @@ After the company I was working for entered the photobook market a customer surv
 ![man and woman wedding photos in book]({{ site.baseurl }}/assets/img/photobook.jpg "wedding photobook")
 <span class="attribution">Copyright <a href="https://www.flickr.com/photos/shadesofqaeds/">Q. Shamsuddin</a>, licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/legalcode">Creative Commons 2.0</a></span>
 
+{:.see-more}
 [View the complete report (PDF)]({{ site.baseurl }}/assets/usability-report-summary.pdf){:target="_blank"}
 
 <hr>
@@ -31,6 +32,7 @@ The Boogie Battle app was built as the final project for the Grand Circus Front-
 
 ![sign up page for dance app]({{ site.baseurl }}/assets/img/bb-two-imgs.png "dance app")
 
+{:.see-more}
 [View Details]({{ site.baseurl }}/assets/usability-report-summary.pdf)
 
 <hr>
@@ -41,4 +43,5 @@ The Boogie Battle app was built as the final project for the Grand Circus Front-
 
 I created a survey to gauge athlete interest in a competition app for extreme sports. The results provided useful feedback for the project. In keeping with principles of Design Thinking, by empathising with users, it better clarified what types of questions to ask and areas to explore to understand the needs of the user.
 
+{:.see-more}
 [View Details]({{ site.baseurl }}/assets/usability-report-summary.pdf)

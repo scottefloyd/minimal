@@ -51,7 +51,7 @@ hr {
   border: 0;
   background-color: #acacac;
   height: 4px;
-  margin:50px 0;
+  margin: 35px 0 50px 0;
 } 
 
 a {
@@ -155,8 +155,12 @@ ul.nav-menu {
   }
 }
 
+.see-more {
+  text-align: right;
+}
+
 .active {
-  
+  color: #42A8C0;
 }
 
 .ux-nav {
