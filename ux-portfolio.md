@@ -21,6 +21,8 @@ After the company I was working for entered the photobook market a customer surv
 
 [View the complete report (PDF)]({{ site.baseurl }}/assets/usability-report-summary.pdf){:target="_blank"}
 
+<hr>
+
 ## APPS
 
 ### Boogie Battle Mobile App
@@ -30,6 +32,8 @@ The Boogie Battle app was built as the final project for the Grand Circus Front-
 ![sign up page for dance app]({{ site.baseurl }}/assets/img/bb-two-imgs.png "dance app")
 
 [View Details]({{ site.baseurl }}/assets/usability-report-summary.pdf)
+
+<hr>
 
 ## USER RESEARCH
 
