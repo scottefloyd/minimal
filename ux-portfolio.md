@@ -41,7 +41,7 @@ The Boogie Battle app was built as the final project for the Grand Circus Front-
 
 ### Competition App User Survey
 
-I created a survey to gauge athlete interest in a competition app for extreme sports. The results provided useful feedback for the project. In keeping with principles of Design Thinking, by empathising with users, it better clarified what types of questions to ask and areas to explore to understand the needs of the user.
+I created a survey to gauge athlete interest in a competition app for extreme sports. The results provided useful feedback for the project. In keeping with principles of Design Thinking, it better clarified what types of questions to ask and areas to explore in order to understand the needs of the user.
 
 {:.see-more}
 [View Details]({{ site.baseurl }}/assets/usability-report-summary.pdf)
