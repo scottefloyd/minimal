@@ -3,6 +3,8 @@ logo: /assets/img/sticky-hello.png
 ux-logo: /assets/img/sticky-ux.png
 web-logo: /assets/img/sticky-web.png
 description: Defender of UX Principles
+ux-description: User Experience
+web-description: Web Design
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
