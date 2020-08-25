@@ -33,7 +33,7 @@ The Boogie Battle app was built as the final project for the Grand Circus Front-
 ![sign up page for dance app]({{ site.baseurl }}/assets/img/bb2.png "dance app")
 
 {:.see-more}
-[View Details]({{ site.baseurl }}/assets/usability-report-summary.pdf){:target="_blank"}
+[View the complete report (PDF)]({{ site.baseurl }}/assets/boogie-battle-report.pdf){:target="_blank"}
 
 <hr>
 
@@ -44,4 +44,4 @@ The Boogie Battle app was built as the final project for the Grand Circus Front-
 I created a survey to gauge athlete interest in a competition app for extreme sports. The results provided useful feedback for the project. In keeping with principles of Design Thinking, it better clarified what types of questions to ask and areas to explore in order to understand the needs of the user.
 
 {:.see-more}
-[View Details (PDF)]({{ site.baseurl }}/assets/comp-app-survey.pdf){:target="_blank"}
+[View the complete report (PDF)]({{ site.baseurl }}/assets/comp-app-survey.pdf){:target="_blank"}
