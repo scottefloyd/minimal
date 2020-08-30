@@ -45,3 +45,14 @@ I created a survey to gauge athlete interest in a competition app for extreme sp
 
 {:.see-more}
 [View the complete report (PDF)]({{ site.baseurl }}/assets/comp-app-survey.pdf){:target="_blank"}
+
+<hr>
+
+## TASK ANALYSIS
+
+### City of Ann Arbor Website Task Analysis
+
+I conducted a task analysis for the User Experience II course at Washtenaw Community College in Ann Arbor, Michigan. The city website at the time was quite dated and difficult to navigate. It was a good opportunity to dig into the issues and development more streamlined solutions. The report includes descriptions of the problems, and proposed solutions with design wireframes.
+
+{:.see-more}
+[View the complete report (PDF)]({{ site.baseurl }}/assets/Taskanalysis_Report_Final.pdf){:target="_blank"}
