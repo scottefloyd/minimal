@@ -12,7 +12,9 @@ permalink: /web-portfolio/
 
 ### Kristy Liebetreu Photography
 
+<a href="https://kristyliebetreuphotography.com/">
 ![Kristy Liebetreu Photography]({{ site.baseurl }}/assets/img/kristy.png "screen shot of photography website")
+</a>
 
 ### Conquest Home Builders
 
