@@ -19,12 +19,12 @@ permalink: /web-portfolio/
 This website was developed for a photographer in Port Huron, MI. Kristy was a great client to work with. She is a high school art teacher and does graduation and personal branding photography during the summer. With Kristy's art background, she provided helpful feedback throughout the project. This website is not an out-of-the-box template, and is one of a kind.
 
 
-### Conquest Home Builders
+### Conquest Builders
 <a href="http://royscorner.com/wp/" target="_blank">
-![Conquest Home builders]({{ site.baseurl }}/assets/img/conquest.png "screenshot of homebuilder website")
+![Conquest builders]({{ site.baseurl }}/assets/img/conquest.png "screenshot of homebuilder website")
 </a>
 
-I was contracted by Affinity Technology Group to develop this website. It is a static HTML website that required significant customization. The client was pleased with the result!
+Affinity Technology Group contracted me to develop a new website for Conquest Builders, an award-winning builder in Northern Michigan. The site is based on a static HTML template that required significant customization. The client was pleased with the result!
 
 
 ### Roy's Hardware
