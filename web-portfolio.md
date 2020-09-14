@@ -20,7 +20,7 @@ This website was developed for a photographer in Port Huron, MI. Kristy was a gr
 
 
 ### Conquest Builders
-<a href="http://royscorner.com/wp/" target="_blank">
+<a href="http://conquestbuilders.com/" target="_blank">
 ![Conquest builders]({{ site.baseurl }}/assets/img/conquest.png "screenshot of homebuilder website")
 </a>
 
@@ -28,7 +28,7 @@ Affinity Technology Group contracted me to develop a new website for Conquest Bu
 
 
 ### Roy's Hardware
-<a href="http://conquestbuilders.com/" target="_blank">
+<a href="http://royscorner.com/wp/" target="_blank">
 ![Roy's Hardware]({{ site.baseurl }}/assets/img/roys.png "screenshot of hardware store website")
 </a>
 
